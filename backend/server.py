@@ -1,5 +1,4 @@
 from flask import Flask, request, jsonify, render_template
-import mysql.connector
 import sql_connect , json
 import manage_functions
 
