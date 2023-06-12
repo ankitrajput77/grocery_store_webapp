@@ -30,6 +30,11 @@ EER Diagram is attached to understand the type of database <img width="538" alt=
 6. Run the application, server.py
 7. Access the web application in your browser: (use path of ./grocery_app/ui/index.html as browser url)
 
+## In-action 
+
+[Click here to watch the video](https://www.dropbox.com/s/md4k7s832kj2tvb/VID_20230612131528.mp4?dl=0)
+
+
 ## Contributing
 
 Contributions to the Grocery Store Management System web app are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request.
